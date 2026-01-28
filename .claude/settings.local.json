@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(netstat:*)",
+      "Bash(findstr :3000)",
+      "Bash(findstr:*)",
+      "Bash(taskkill:*)",
+      "Bash(npx json-server db.json)",
+      "Bash(timeout:*)"
+    ]
+  }
+}
